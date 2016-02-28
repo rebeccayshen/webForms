@@ -17,6 +17,10 @@ header {
   font-size: 2em;
 }
 
+h3 {
+  color: darkred;
+
+}
 @media screen and (max-width: 650px) {
   header {
     font-size: 1.5em;
